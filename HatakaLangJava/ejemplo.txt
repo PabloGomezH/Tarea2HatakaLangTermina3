@@ -1,0 +1,25 @@
+home
+	engari taurangi1 = pono
+	tau taurangi2 = 0
+	tau taurangi3
+	tau taurangi4
+	katoa  i
+	
+	tauira "taurangi2"
+	
+	ae(taurangi2==0){
+		taurangi2=2000
+		taurangi2 = taurangi2-1
+		tauira "taurangi2"
+	}
+	aee{
+		tauira "sflkasdj"
+		tau hola_soy_una_variable
+	}
+	
+	taurangi4=panui
+
+	
+	
+		
+mutunga
